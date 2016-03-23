@@ -1,0 +1,17 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "Web server for soup and bits",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymond Zhu",
+  "license": "MIT",
+  "dependencies": {
+    "axon": "^2.0.2",
+    "express": "^4.13.4",
+    "request": "^2.69.0",
+    "socket.io": "^1.4.5"
+  }
+}
